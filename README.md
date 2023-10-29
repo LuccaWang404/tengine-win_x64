@@ -1,6 +1,6 @@
 # tengine-win_x64
+![tengine](https://img.shields.io/badge/win_x64-tengine-239120?logo=windows&logoColor=fff&style=flat)
 
-![tengine](https://img.shields.io/badge/win_x64-tengine-239120?logo=windows&logoColor=fff&style=flat) </br>
 Tengine binaries for Windows x64.
 
 ### Lanzou Netdisk：
